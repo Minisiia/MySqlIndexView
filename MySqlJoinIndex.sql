@@ -163,5 +163,3 @@ ON staff.id = serviceInfo.staff_id
 WHERE serviceInfo.position = 'Менеджер';
 
 SELECT * FROM birth_manager_info;
-
-
